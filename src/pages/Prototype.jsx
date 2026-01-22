@@ -7,7 +7,6 @@ import {
   HiHome,
   HiCog,
   HiBell,
-  HiUser,
   HiArrowUp,
   HiArrowDown,
   HiPlus,
