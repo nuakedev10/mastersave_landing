@@ -5,12 +5,10 @@ import {
   HiChartBar, 
   HiLockClosed,
   HiRefresh,
-  HiClock,
   HiUserGroup,
   HiAcademicCap,
   HiDocumentReport,
   HiBell,
-  HiCreditCard,
   HiGlobe
 } from 'react-icons/hi';
 import { 

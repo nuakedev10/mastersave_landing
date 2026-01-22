@@ -2,8 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Hero from '../components/Hero';
 import { 
-  HiShieldCheck, 
-  HiCurrencyDollar, 
+  HiShieldCheck,  
   HiChartBar, 
   HiLockClosed,
   HiUserGroup,
@@ -38,7 +37,7 @@ const Home = () => {
 
   const stats = [
     { value: '45%', label: 'Average Savings Rate', icon: <FaPiggyBank /> },
-    { value: '8', label: 'Partner Universities', icon: <FaUniversity /> },
+    { value: '3', label: 'Partner Universities', icon: <FaUniversity /> },
     { value: '10K+', label: 'Target Users', icon: <HiUserGroup /> },
     { value: '100%', label: 'Student Focused', icon: <HiAcademicCap /> }
   ];
